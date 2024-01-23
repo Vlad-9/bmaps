@@ -14,6 +14,6 @@
     "attribution": "<a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">&copy; OpenStreetMap contributors</a>",
     "version": "1.0.0",
     "tiles": [
-      "https://tiles.urbeo.me/origin/{z}/{x}/{y}.pbf"
+      "https://tiles.urbeo.me/origin2/{z}/{x}/{y}.pbf"
     ]
 }
